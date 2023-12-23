@@ -1,8 +1,8 @@
-let game = () => {
+function game() {
   let playerscore = 0;
   let computerscore = 0;
   let move = 0;
-};
+}
 // Function to
 const playGame = () => {
   const rockBtn = document.querySelector(".rock");
